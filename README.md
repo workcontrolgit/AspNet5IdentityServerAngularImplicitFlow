@@ -39,6 +39,30 @@
 
 ## History
 
+<strong>2020-07-06 </strong> Updated IdentityServer4 4.0.2, Angular 10.0.2, OIDC 11.1.4
+
+<strong>2020-06-26 </strong> Updated IdentityServer4 to V4
+
+<strong>2020-06-26 </strong> Updated OIDC lib to 11.1.3
+
+<strong>2020-06-26 </strong> Updated to Angular 10
+
+<strong>2020-05-01 </strong> Updated to OIDC Version 11, nuget packages, npm packages
+
+<strong>2020-03-21 </strong> Updated packages
+
+<strong>2020-03-03 </strong> Updated STS, support for FIDO2, updated nuget packages
+
+<strong>2020-02-14 </strong> Subscribe startRenew after isAuthorized is true
+
+<strong>2020-02-10 </strong> Update Angular 9
+
+<strong>2020-01-24 </strong> Update Nuget packages, OIDC lib
+
+<strong>2020-01-04 </strong> Added same site fixes
+
+<strong>2020-01-03: </strong> Updated npm packages, OIDC lib, nuget packages
+
 <strong>2019-12-06: </strong> Updated to ASP.NET Core 3.1
 
 <strong>2019-11-17: </strong> Updated OIDC 10.0.10, Angular 8.2.14, Nuget packages
